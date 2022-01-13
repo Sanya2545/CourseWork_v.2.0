@@ -1,0 +1,7 @@
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\DAL(EntityFramework)\bin\Debug\DAL(EntityFramework).exe.config
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\DAL(EntityFramework)\bin\Debug\DAL(EntityFramework).exe
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\DAL(EntityFramework)\bin\Debug\DAL(EntityFramework).pdb
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\DAL(EntityFramework)\obj\Debug\DAL(EntityFramework).csproj.AssemblyReference.cache
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\DAL(EntityFramework)\obj\Debug\DAL(EntityFramework).csproj.CoreCompileInputs.cache
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\DAL(EntityFramework)\obj\Debug\DAL(EntityFramework).exe
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\DAL(EntityFramework)\obj\Debug\DAL(EntityFramework).pdb
