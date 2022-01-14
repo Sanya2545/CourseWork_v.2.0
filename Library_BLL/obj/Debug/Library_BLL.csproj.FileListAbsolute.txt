@@ -1,0 +1,6 @@
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\Library_BLL\bin\Debug\Library_BLL.dll
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\Library_BLL\bin\Debug\Library_BLL.pdb
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\Library_BLL\obj\Debug\Library_BLL.csproj.AssemblyReference.cache
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\Library_BLL\obj\Debug\Library_BLL.csproj.CoreCompileInputs.cache
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\Library_BLL\obj\Debug\Library_BLL.dll
+D:\Study_NAU\2 Course\OOP - Practice\CourseWork_4.0\Library_BLL\obj\Debug\Library_BLL.pdb

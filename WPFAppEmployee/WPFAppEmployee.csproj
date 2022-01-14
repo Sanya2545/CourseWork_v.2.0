@@ -104,9 +104,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DAL%28EntityFramework%29\DAL%28EntityFramework%29.csproj">
-      <Project>{c4ba977a-dd77-4c9b-b528-90e1dc771f2c}</Project>
-      <Name>DAL%28EntityFramework%29</Name>
+    <ProjectReference Include="..\DAL%28SQLite%29\DAL%28SQLite%29.csproj">
+      <Project>{669d7b68-34c5-4425-a3c4-f5bad6713266}</Project>
+      <Name>DAL%28SQLite%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Library_BLL\Library_BLL.csproj">
+      <Project>{bd89ab82-9202-427e-bbc0-f4d328063591}</Project>
+      <Name>Library_BLL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

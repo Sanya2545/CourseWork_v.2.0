@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFAppEmployee", "WPFAppEmp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_BLL", "..\Library_BLL\Library_BLL.csproj", "{BD89AB82-9202-427E-BBC0-F4D328063591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL(EntityFramework)", "..\DAL(EntityFramework)\DAL(EntityFramework).csproj", "{C4BA977A-DD77-4C9B-B528-90E1DC771F2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL(SQLite)", "..\DAL(SQLite)\DAL(SQLite).csproj", "{669D7B68-34C5-4425-A3C4-F5BAD6713266}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{BD89AB82-9202-427E-BBC0-F4D328063591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD89AB82-9202-427E-BBC0-F4D328063591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD89AB82-9202-427E-BBC0-F4D328063591}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4BA977A-DD77-4C9B-B528-90E1DC771F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4BA977A-DD77-4C9B-B528-90E1DC771F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4BA977A-DD77-4C9B-B528-90E1DC771F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4BA977A-DD77-4C9B-B528-90E1DC771F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669D7B68-34C5-4425-A3C4-F5BAD6713266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669D7B68-34C5-4425-A3C4-F5BAD6713266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669D7B68-34C5-4425-A3C4-F5BAD6713266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669D7B68-34C5-4425-A3C4-F5BAD6713266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using DAL_SQLLite_;
+using DAL_SQLite_;
+using Library_BLL;
 
 namespace WPFAppEmployee
 {
@@ -88,6 +89,10 @@ namespace WPFAppEmployee
                     txtBoxEmail.Background = Brushes.Transparent;
                 }
             } while (isLogin == true && isPass == true && isPass2 == true && isEmail == true);
+            Employee employee = new Employee(login, pass, email);
+            EmployeeHelper helper = new EmployeeHelper();
+            helper.AddEmployee(employee);
+            MessageBox.Show("U've been registered !");
         }
     }
 }
